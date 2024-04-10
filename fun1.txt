@@ -1,6 +1,6 @@
 // Функция для сложения
 float add(float a, float b) {
-    return a + ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzz;
+    return a + b;
 }
 
 // Функция для вычитания
