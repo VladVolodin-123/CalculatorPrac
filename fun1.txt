@@ -1,3 +1,24 @@
+// Функция для сложения
 float add(float a, float b) {
-    return a + FFFF;
+    return a + ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzz;
+}
+
+// Функция для вычитания
+float subtract(float a, float b) {
+    return a - b;
+}
+
+// Функция для умножения
+float multiply(float a, float b) {
+    return a * b;
+}
+
+// Функция для деления
+float divide(float a, float b) {
+    if (b != 0) {
+        return a / b;
+    } else {
+        std::cout << "Ошибка: деление на ноль\n";
+        return 0;
+    }
 }
